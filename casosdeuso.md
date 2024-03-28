@@ -2,10 +2,10 @@
 
 
 ### Entrar no Sistema:
-- **Usuário:** Cliente ou Funcionário
-- **Pré-condição:** O usuário acessa a página inicial da plataforma.
-- **Ação:** O usuário insere suas credenciais de login (por exemplo, nome de usuário e senha) nos campos apropriados.
-- **Pós-condição:** O sistema autentica as credenciais do usuário. Se válidas, o usuário é redirecionado para a página principal da plataforma. Se inválidas, o usuário é notificado sobre o erro de autenticação.
+- **Usuário:** 
+- **Pré-condição:** 
+- **Ação:** 
+- **Pós-condição:** 
 
 ### Visualização de Serviços Disponíveis:
 - **Usuário:** Hospital, Clínica
